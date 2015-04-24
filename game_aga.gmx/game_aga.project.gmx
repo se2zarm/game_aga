@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\spr_grass</sprite>
   </sprites>
   <backgrounds name="background"/>
@@ -17,6 +18,12 @@
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
+=======
+    <sprite>sprites\sprite0</sprite>
+  </sprites>
+  <backgrounds name="background"/>
+  <paths name="paths"/>
+>>>>>>> 38b931dd65e9dccb42a6b7d9ea98c339142dfe72
   <help>
     <rtf>help.rtf</rtf>
   </help>
